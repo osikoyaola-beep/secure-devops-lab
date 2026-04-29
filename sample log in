@@ -1,7 +1,7 @@
 password = "12345"
 
 def login(user_input):
-if user_input == password:
+if user_iput == password:
 print("Access granted")
 else:
 print("Access denied")
